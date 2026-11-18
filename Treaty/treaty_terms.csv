@@ -1,0 +1,7 @@
+treaty_id,type,line,inception,expiry,cession_pct,retention,limit,num_reinstatements,ceding_commission,reinstatement_premium_pct,notes
+QS-PROP-2024,Quota Share,Property,01-01-2024,31-12-2024,0.3,,,,0.25,,"30% cession, 25% ceding commission. Applies to GROSS loss."
+QS-PROP-2025,Quota Share,Property,01-01-2025,31-12-2025,0.4,,,,0.27,,Cession raised to 40% at renewal. Check which loss date basis (LOD) applies.
+XOL-MOT-2024,XoL per risk,Motor,01-01-2024,31-12-2024,,500000,2000000,2,,"100%,50%","EUR2m xs EUR500k, 2 reinstatements (1st @100% pro-rata as to amount, 2nd @50%). Premium: EUR180k."
+XOL-MOT-2025,XoL per risk,Motor,01-01-2025,31-12-2025,,750000,2000000,2,,"100%,50%",Retention up to EUR750k. Premium: EUR165k.
+XOL-LIA-2024,XoL per risk,Liability,01-01-2024,31-12-2024,,1000000,3000000,1,,100%,"EUR3m xs EUR1m, 1 reinstatement @100%. ALAE pro-rata in addition."
+CAT-PROP-2024,Cat XoL per event,Property,01-01-2024,31-12-2024,,2000000,5000000,1,,100%,"EUR5m xs EUR2m per event, 72hr clause, 1 reinstatement @100%. Applies to NET of QS."
